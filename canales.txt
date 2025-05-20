@@ -1,5 +1,7 @@
 Movistar Plus+ HD,ES: Movistar Plus+
 Movistar Plus+,ES: Movistar Plus+
 M+ Estrenos HD,ES: M+ Estrenos
+M+ Accion, ES: M+ Accion
+M+ Documentales, ES: M+ Documentales
 M+ Originales HD,ES: M+ Originales
 La 1 HD,ES: La 1
