@@ -1,9 +1,9 @@
 Movistar Plus+ HD,ES: Movistar Plus+
 Movistar Plus+,ES: Movistar Plus+
 M+ Estrenos HD,ES: M+ Estrenos
-M+ Comedia HD, ES:M+ Comedia
-M+ Drama HD, ES:M+ Drama
-M+ Hits HD, ES:M+ Series
+M+ Comedia HD, ES: M+ Comedia
+M+ Drama HD, ES: M+ Drama
+M+ Hits HD, ES: M+ Series
 M+ Acción HD, ES: M+ Acción
 M+ Documentales HD, ES: M+ Documentales
 M+ Originales HD,ES: M+ Originales
