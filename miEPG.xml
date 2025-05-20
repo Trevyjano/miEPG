@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/05/2025 09:29" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 20/05/2025 11:42" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: Movistar Plus+">
     <display-name>ES: Movistar Plus+</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" />
@@ -42,13 +42,13 @@
 · Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 </desc>
   </programme>
-  <programme start="20250520064800 +0200" stop="20250520074100 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520064800 +0200" stop="20250520074000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Transworld Sport T2025 E1984</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos históricos y biografías.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos históricos y biografías. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250520074100 +0200" stop="20250520075000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520074000 +0200" stop="20250520075000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Espacio M+ T2 · Desmontando un elefante. El zarpazo de una adicción</title>
     <desc lang="es">Entretenimiento | 2024 | +7 | *6.0/10
 · Charlamos con el director debutante Aitor Echevarría, y las actrices Emma Suárez y Natalia de Molina sobre este elegante drama que nos muestra la adicción al alcohol y sus efectos en una familia aparentemente idílica. Votos: 158.
@@ -107,14 +107,14 @@
 · País: Alemania
 · Dirección: Jérôme Fritel.</desc>
   </programme>
-  <programme start="20250520134300 +0200" stop="20250520144200 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520134300 +0200" stop="20250520144000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Crímenes: Libélula</title>
     <desc lang="es">Documentales/True crime | 2024 | +16 | *10.0/10
 · Carme Blanch no se presenta en la escuela para recoger a un niño al que cuida. Carme ha sido asesinada, pero lo que inicialmente parece un robo queda descartado por los Mossos d'Esquadra. El crimen no será juzgado hasta seis años después. Votos: 5.
 · Título original: Crims: libel·lula
 · País: España</desc>
   </programme>
-  <programme start="20250520144200 +0200" stop="20250520154500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520144000 +0200" stop="20250520154500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El día después T24/25 E33</title>
     <desc lang="es">Deportes/Programa deportes | TP
 · 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
@@ -148,7 +148,7 @@
   <programme start="20250520194000 +0200" stop="20250520201000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250520201000 +0200" stop="20250520203700 +0200" channel="ES: Movistar Plus+">
@@ -159,14 +159,14 @@
   </programme>
   <programme start="20250520203700 +0200" stop="20250520213000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *10.0/10
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 3.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20250520213000 +0200" stop="20250520220000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -174,14 +174,14 @@
   </programme>
   <programme start="20250520220000 +0200" stop="20250520225500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Las Berrocal T1 E1</title>
-    <desc lang="es">Entretenimiento | 2025 | +16
-· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío.
+    <desc lang="es">Entretenimiento | 2025 | +16 | *10.0/10
+· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20250520225500 +0200" stop="20250521010500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Francis Ford Coppola's Megalópolis - Una fábula</title>
     <desc lang="es">Cine/Ciencia ficción | 2024 | +16 | *6.0/10
-· En la ciudad de Nueva Roma, el idealista Cesar Catilina, que desea crear un utópico futuro mejor, se enfrenta a el alcalde Franklyn Cicero, empeñado en mantener un statu quo que perpetúa la codicia y defiende los intereses particulares. Votos: 104.
+· En la ciudad de Nueva Roma, el idealista Cesar Catilina, que desea crear un utópico futuro mejor, se enfrenta a el alcalde Franklyn Cicero, empeñado en mantener un statu quo que perpetúa la codicia y defiende los intereses particulares. Votos: 105.
 · Título original: Megalopolis
 · País: EE.UU.
 · Dirección: Francis Ford Coppola.
@@ -329,14 +329,14 @@
   </programme>
   <programme start="20250521183600 +0200" stop="20250521193100 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Las Berrocal T1 E1</title>
-    <desc lang="es">Entretenimiento | 2025 | +16
-· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío.
+    <desc lang="es">Entretenimiento | 2025 | +16 | *10.0/10
+· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20250521193100 +0200" stop="20250521200000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -351,7 +351,7 @@
   <programme start="20250521205300 +0200" stop="20250521231500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Final: Tottenham - Manchester Utd. T24/25 · UEFA Europa League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La segunda competición de la UEFA es la Europa League. La final de este año es en Bilbao. Votos: 11.
+· Tottenham y Manchester United se juegan la temporada en Bilbao. Tras una Premier desastrosa (ocupan la 17ª y 16ª posición respectivamente), levantarán un título europeo y se meterán en la próxima Champions si vencen la final de la Europa League. Votos: 11.
 · País: España</desc>
   </programme>
   <programme start="20250521231500 +0200" stop="20250522001500 +0200" channel="ES: Movistar Plus+">
@@ -379,7 +379,7 @@
   <programme start="20250522020000 +0200" stop="20250522050000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Finales de Conferencia: New York Knicks - Indiana Pacers (Partido 1) T24/25 · NBA</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *10.0/10
-· Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo. Votos: 1.
+· Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo. Votos: 2.
 </desc>
   </programme>
   <programme start="20250522050000 +0200" stop="20250522055200 +0200" channel="ES: Movistar Plus+">
@@ -516,7 +516,7 @@
 · Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
 · País: España</desc>
   </programme>
-  <programme start="20250522221000 +0200" stop="20250523001000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250522221000 +0200" stop="20250523000200 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Blitz</title>
     <desc lang="es">Cine/Acción | 2024 | +12 | *6.0/10
 · En el Londres de la Segunda Guerra Mundial, George, un niño de nueve años, es evacuado al campo por su madre, Rita, para escapar de los bombardeos. Decidido a volver con su familia, George se embarca en un viaje épico de vuelta a casa mientras Rita. Votos: 49.
@@ -525,16 +525,16 @@
 · Reparto: Saoirse Ronan, Harris Dickinson, Benjamin Clementine, Kathy Burke, Paul Weller, Stephen Graham.
 · Producción: Tim Bevan, Eric Fellner, Anita Overland, Anna Smith.</desc>
   </programme>
-  <programme start="20250523001000 +0200" stop="20250523010100 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523000200 +0200" stop="20250523005300 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Cómo la IIGM se convirtió en global</title>
     <desc lang="es">Documentales/Historia | 2025 | +12 | *8.0/10
-· La Segunda Guerra Mundial ha sido considerada históricamente una guerra europea que acabó convirtiéndose en un conflicto global y cambió el mundo para siempre. Pero otros países como Japón, China, Estados Unidos y Oriente Medio no lo vieron así. Votos: 13.
+· La Segunda Guerra Mundial ha sido considerada históricamente una guerra europea que acabó convirtiéndose en un conflicto global y cambió el mundo para siempre. Pero otros países como Japón, China, Estados Unidos y Oriente Medio no lo vieron así. Votos: 15.
 · Título original: How the Second World War Became a Global War
 · País: R.U.
 · Dirección: Adrian Munsey.
 · Guion: Adrian Munsey.</desc>
   </programme>
-  <programme start="20250523010100 +0200" stop="20250523015300 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523005300 +0200" stop="20250523014500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Día D: la batalla en color · El gran desafío</title>
     <desc lang="es">Documentales/Historia | 2023 | +12 | *6.0/10
 · En julio de 1943, Hitler sigue ocupando parte de la Unión Soviética. Pero desde su derrota en la batalla de Kursk, está a la defensiva. Contra él, los llamados Tres Grandes, reunidos en Teherán: Stalin, Franklin Roosevelt y Winston Churchill. Votos: 38.
@@ -542,7 +542,7 @@
 · País: Francia
 · Dirección: Isabelle Clarke, Daniel Costelle.</desc>
   </programme>
-  <programme start="20250523015300 +0200" stop="20250523024800 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523014500 +0200" stop="20250523024000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Día D: la batalla en color · El gran asalto</title>
     <desc lang="es">Documentales/Historia | 2023 | +12 | *6.0/10
 · 6 de junio de 1944. Los aliados desembarcan en las playas de Francia en una invasión sin precedentes. Su objetivo: liberar la Europa noroccidental del yugo de Hitler y de la ocupación nazi. ¿Cómo se desarrolló el desembarco de Normandía? Votos: 25.
@@ -550,7 +550,7 @@
 · País: Francia
 · Dirección: Isabelle Clarke, Daniel Costelle.</desc>
   </programme>
-  <programme start="20250523024800 +0200" stop="20250523034000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523024000 +0200" stop="20250523033200 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Mujeres sin nombre - México</title>
     <desc lang="es">Documentales/Actualidad | 2017 | +18 | *8.0/10
 · Desde enero de 2012 a junio de 2016 fueron asesinadas de forma violenta 9.581 mujeres en México, pero sólo 1.887 fueron tipificados como feminicidios. Y sólo el 39% de los mejicanos asocian feminicidio con el asesinato de mujeres. Votos: 78.
@@ -558,7 +558,7 @@
 · Presenta: Sonia López, Noemí Redondo.
 · Producción: Miguel Balanzategui.</desc>
   </programme>
-  <programme start="20250523034000 +0200" stop="20250523043500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523033200 +0200" stop="20250523042700 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Atrapados en la homofobia - Rusia</title>
     <desc lang="es">Documentales/Actualidad | 2017 | +18 | *8.0/10
 · Si existe un país que se ha convertido en un verdadero infierno para los homosexuales, ése es Rusia. 20 años después de que se legalizara la homosexualidad en el Congreso, este colectivo vive una auténtica persecución. Votos: 112.
@@ -566,7 +566,7 @@
 · Presenta: Sonia López, Noemí Redondo.
 · Producción: Miguel Balanzategui.</desc>
   </programme>
-  <programme start="20250523043500 +0200" stop="20250523080000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523042700 +0200" stop="20250523080000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">documentales</title>
     <desc lang="es">
 · Programa por determinar...
@@ -641,7 +641,7 @@
   <programme start="20250523170000 +0200" stop="20250523190500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Semifinales: Fenerbahçe - Panathinaikos T24/25 · Euroliga de baloncesto</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 87.
+· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 88.
 · País: España</desc>
   </programme>
   <programme start="20250523190500 +0200" stop="20250523194000 +0200" channel="ES: Movistar Plus+">
@@ -662,7 +662,7 @@
   <programme start="20250523200000 +0200" stop="20250523220000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Semifinales: Olympiacos - Mónaco T24/25 · Euroliga de baloncesto</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 102.
+· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 103.
 · País: España</desc>
   </programme>
   <programme start="20250523220000 +0200" stop="20250523235500 +0200" channel="ES: Movistar Plus+">
@@ -720,13 +720,13 @@
 · Presenta: Sonia López, Noemí Redondo.
 · Producción: Miguel Balanzategui.</desc>
   </programme>
-  <programme start="20250524064700 +0200" stop="20250524081500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524064700 +0200" stop="20250524071000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Cine</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250524081500 +0200" stop="20250524091500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524071000 +0200" stop="20250524081000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Mary Beard: Pompeya, la vida antes de la muerte</title>
     <desc lang="es">Documentales/Historia | 2016 | TP | *8.0/10
 · Mary Beard se acerca a la vida en Pompeya antes del trágico final en el año 79 AC, cuando la erupción del Vesubio sepultó la ciudad, congelando en el tiempo toda una civilización y un modo de vida. Votos: 596.
@@ -734,10 +734,10 @@
 · País: R.U.
 · Presenta: Mary Beard.</desc>
   </programme>
-  <programme start="20250524091500 +0200" stop="20250524110600 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524081000 +0200" stop="20250524100100 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Regreso al futuro</title>
     <desc lang="es">Cine/Aventuras | 1985 | TP | *8.0/10
-· Marty McFly, de 17 años, viaja por accidente hasta 1955 en una máquina del tiempo construida por su amigo Emmett 'Doc' Brown, un científico muy excéntrico. Votos: 2506.
+· Marty McFly, de 17 años, viaja por accidente hasta 1955 en una máquina del tiempo construida por su amigo Emmett 'Doc' Brown, un científico muy excéntrico. Votos: 2508.
 · Título original: Back To The Future
 · País: EE.UU.
 · Dirección: Robert Zemeckis.
@@ -747,15 +747,21 @@
 · Producción: Bob Gale, Neil Canton.
 · Productora: Amblin Entertainment, U-Drive Productions, Universal Pictures.</desc>
   </programme>
-  <programme start="20250524110600 +0200" stop="20250524120600 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">Altas capacidades (Out of the Box)</title>
-    <desc lang="es">Documentales/Sociedad | 2024 | TP | *8.0/10
-· Los estereotipos asociados a las altas capacidades proyectan una imagen de individuos afortunados con una inteligencia superior. Sin embargo, si su neurodivergencia no es respetada y atendida correctamente puede derivar en situaciones de riesgo. Votos: 429.
+  <programme start="20250524100100 +0200" stop="20250524113900 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">Aitana Bonmatí Conca</title>
+    <desc lang="es">Documentales/Biografía | 2024 | TP | *6.0/10
+· Ganadora de cinco ligas, cuatro supercopas, cinco champions, Aitana Bonmatí lo ha conseguido todo en el fútbol. En este documental nos descubre su cara más desconocida, personal y humana. Votos: 143.
+· Título original: Aitana Bonmatí
 · País: España
-· Dirección: Andrea Gómez.
-· Guion: Andrea Gómez.</desc>
+· Dirección: Xavi Torres, Jesús Muñoz, Santi Padró.</desc>
   </programme>
-  <programme start="20250524120600 +0200" stop="20250524130000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524113900 +0200" stop="20250524124700 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">Ellas en la ciudad</title>
+    <desc lang="es">Documentales/Sociedad | 2025 | TP
+· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
+· País: España</desc>
+  </programme>
+  <programme start="20250524124700 +0200" stop="20250524134300 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El mundo según Glenn Close</title>
     <desc lang="es">Documentales/Biografía | 2024 | +12
 · Glenn Close nunca deja de sorprendernos con sus interpretaciones. La profundidad emocional que atribuye a cada uno de sus personajes y su extraordinaria capacidad de transformación la convierten en una actriz difícil de igualar.
@@ -763,31 +769,25 @@
 · País: Francia
 · Dirección: Catherine Ulmer Lopez.</desc>
   </programme>
-  <programme start="20250524130000 +0200" stop="20250524140800 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">Ellas en la ciudad</title>
-    <desc lang="es">Documentales/Sociedad | 2025 | TP
-· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
-· País: España</desc>
-  </programme>
-  <programme start="20250524140800 +0200" stop="20250524150000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524134300 +0200" stop="20250524143500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Crímenes: Angelet</title>
     <desc lang="es">Documentales/True crime | 2024 | +16
 · Àngel Vila es el masovero de una masía donde vive y acoge a ciclistas y montañeros que rondan la zona. Con su vecino, improvisa un pequeño restaurante. Con el tiempo se propaga el rumor de que en la masía esconde una cantidad importante de dinero.
 · País: España</desc>
   </programme>
-  <programme start="20250524150000 +0200" stop="20250524153000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524143500 +0200" stop="20250524150500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
 · Productora: Movistar+.</desc>
   </programme>
-  <programme start="20250524153000 +0200" stop="20250524170500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524150500 +0200" stop="20250524164000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El secreto del orfebre</title>
     <desc lang="es">Cine/Drama romántico | 2025 | +7 | *8.0/10
-· De viaja desde España a Nueva York, Juan Pablo, un orfebre anclado en un romance del pasado, vuelve a su pueblo natal en busca del gran amor de su juventud, aquel que cambió su vida para siempre. Votos: 97.
+· De viaja desde España a Nueva York, Juan Pablo, un orfebre anclado en un romance del pasado, vuelve a su pueblo natal en busca del gran amor de su juventud, aquel que cambió su vida para siempre. Votos: 129.
 · País: España
 · Dirección: Olga Osorio.
 · Reparto: Mario Casas, Michelle Jenner, Zoe Bonafonte, Enzo Oliver.
@@ -796,40 +796,40 @@
 · Producción: Adrián Guerra, Núria Valls.
 · Productora: Nostromo Pictures.</desc>
   </programme>
-  <programme start="20250524170500 +0200" stop="20250524180000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524164000 +0200" stop="20250524173000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
   </programme>
-  <programme start="20250524180000 +0200" stop="20250524182500 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DeportePlus+ Sábado</title>
-    <desc lang="es">Deportes/Programa deportes | TP | *6.0/10
-· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva. Votos: 55.
+  <programme start="20250524173000 +0200" stop="20250524175400 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">DeportePlus+ Sábado T24/25 · 24/05/2025 Primera Parte</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
   </programme>
-  <programme start="20250524182500 +0200" stop="20250524203000 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DIRECTO · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 45.
-· País: España</desc>
+  <programme start="20250524175400 +0200" stop="20250524202000 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">DIRECTO Final: Arsenal - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 2.
+· País: Portugal</desc>
   </programme>
-  <programme start="20250524203000 +0200" stop="20250524205300 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DeportePlus+ Sábado</title>
-    <desc lang="es">Deportes/Programa deportes | TP | *6.0/10
-· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva. Votos: 55.
+  <programme start="20250524202000 +0200" stop="20250524205300 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">DeportePlus+ Sábado T24/25 · 24/05/2025 Segunda Parte</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
   </programme>
   <programme start="20250524205300 +0200" stop="20250524230000 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DIRECTO · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 139.
+    <title lang="es">DIRECTO Jornada 38: Getafe - Celta T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
 · País: España</desc>
   </programme>
   <programme start="20250524230000 +0200" stop="20250525000500 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DeportePlus+</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva. Votos: 60.
+    <title lang="es">DeportePlus+ T24/25 · 24/05/2025</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
   </programme>
   <programme start="20250525000500 +0200" stop="20250525010000 +0200" channel="ES: Movistar Plus+">
@@ -844,20 +844,20 @@
 · Festival de Cannes 2025 -.
 </desc>
   </programme>
-  <programme start="20250525012500 +0200" stop="20250525023500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525012500 +0200" stop="20250525025500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Festival de Cannes 2025: Ceremonia de clausura</title>
     <desc lang="es">Cine/Eventos de cine | 2025 | TP
 · Festival de Cannes 2025: Ceremonia de clausura -.
 · Título original: 78e Festival de Cannes: Ceremonie de clôture
 · País: Francia</desc>
   </programme>
-  <programme start="20250525023500 +0200" stop="20250525025000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525025500 +0200" stop="20250525031000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Festival de Cannes 2025. Balance</title>
     <desc lang="es">Cine/Eventos de cine | 2025 | TP
 · Festival de Cannes 2025. Balance -.
 </desc>
   </programme>
-  <programme start="20250525025000 +0200" stop="20250525050000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525031000 +0200" stop="20250525052000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El árbol de la vida</title>
     <desc lang="es">Cine/Drama | 2010 | TP | *6.0/10
 · La historia de una familia del medio Oeste americano en los años 50 a través de la vida del hijo mayor, Jack, desde la inocencia de la infancia hasta la desilusión de los años de madurez, en su intento de reconciliación con su padre. Votos: 921.
@@ -868,7 +868,7 @@
 · Guion: Terrence Malick.
 · Productora: Brace Cove Productions, Plan B Entertainment, River Road Entertainment.</desc>
   </programme>
-  <programme start="20250525050000 +0200" stop="20250525055100 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525052000 +0200" stop="20250525061100 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Renta de mara, tarifa de muerte - Honduras</title>
     <desc lang="es">Documentales/Actualidad | 2018 | +18 | *6.0/10
 · Cada año, decenas de conductores de transporte público y taxistas son asesinados en Honduras, convirtiendo este sector en uno de las más golpeados por la criminalidad, la violencia y el homicidio. Solo en el año 2016, 162 taxistas perdieron la vida. Votos: 86.
@@ -876,7 +876,7 @@
 · Presenta: Sonia López, Noemí Redondo.
 · Producción: Miguel Balanzategui.</desc>
   </programme>
-  <programme start="20250525055100 +0200" stop="20250525064600 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525061100 +0200" stop="20250525070600 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Amenazados - Amazona brasileña</title>
     <desc lang="es">Documentales/Actualidad | 2018 | +18 | *6.0/10
 · En Brasil existen héroes de la naturaleza que son asesinados y amenazados a diario intentando evitar que el Amazonas desaparezca a manos de madereros, mineros ilegales y latifundistas que saquean lo que no es suyo: la madera, el oro y la tierra. Votos: 56.
@@ -884,7 +884,7 @@
 · Presenta: Sonia López, Noemí Redondo.
 · Producción: Miguel Balanzategui.</desc>
   </programme>
-  <programme start="20250525064600 +0200" stop="20250525082000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525070600 +0200" stop="20250525082000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Documentales</title>
     <desc lang="es">
 · Programa por determinar...
@@ -934,7 +934,7 @@
   <programme start="20250525130000 +0200" stop="20250525151000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Jornada 33: La Laguna Tenerife - Valencia Basket T24/25 · Liga Endesa</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *8.0/10
-· La Laguna Tenerife y Valencia Basket se enfrentan en este partido de la Jornada 33 de La Liga Endesa. Votos: 14.
+· La Laguna Tenerife y Valencia Basket se enfrentan en este partido de la Jornada 33 de La Liga Endesa. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250525151000 +0200" stop="20250525160000 +0200" channel="ES: Movistar Plus+">
@@ -963,10 +963,10 @@
 · País: España</desc>
   </programme>
   <programme start="20250525182500 +0200" stop="20250525204000 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DIRECTO · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 45.
-· País: España</desc>
+    <title lang="es">DIRECTO Multigol Jornada 41 T24/25 · LALIGA HYPERMOTION</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso.
+</desc>
   </programme>
   <programme start="20250525204000 +0200" stop="20250525212500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DeportePlus+ Domingo T24/25 · 25/05/2025 Segunda Parte</title>
@@ -1213,18 +1213,21 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250520064800 +0200" stop="20250520074100 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520064800 +0200" stop="20250520074000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Transworld Sport T2025 E1984</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos históricos y biografías.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *2.0/10
+· Programa que recoge la actualidad internacional de los deportes, desde los grandes eventos de masas hasta especialidades minoritarias. Presenta, además, reportajes sobre todo tipo de disciplinas deportivas, hechos históricos y biografías. Votos: 1.
 · País: R.U.</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3359313" />
     <rating system="ES">
       <value>TP</value>
     </rating>
+    <star-rating system="ES">
+      <value>2.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250520074100 +0200" stop="20250520075000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520074000 +0200" stop="20250520075000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Espacio M+ T2 · Desmontando un elefante. El zarpazo de una adicción</title>
     <desc lang="es">Entretenimiento | 2024 | +7 | *6.0/10
 · Charlamos con el director debutante Aitor Echevarría, y las actrices Emma Suárez y Natalia de Molina sobre este elegante drama que nos muestra la adicción al alcohol y sus efectos en una familia aparentemente idílica. Votos: 158.
@@ -1339,7 +1342,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250520134300 +0200" stop="20250520144200 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520134300 +0200" stop="20250520144000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Crímenes: Libélula</title>
     <desc lang="es">Documentales/True crime | 2024 | +16 | *10.0/10
 · Carme Blanch no se presenta en la escuela para recoger a un niño al que cuida. Carme ha sido asesinada, pero lo que inicialmente parece un robo queda descartado por los Mossos d'Esquadra. El crimen no será juzgado hasta seis años después. Votos: 5.
@@ -1354,7 +1357,7 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250520144200 +0200" stop="20250520154500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250520144000 +0200" stop="20250520154500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El día después T24/25 E33</title>
     <desc lang="es">Deportes/Programa deportes | TP
 · 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
@@ -1409,7 +1412,7 @@
   <programme start="20250520194000 +0200" stop="20250520201000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4375686" />
@@ -1433,8 +1436,8 @@
   </programme>
   <programme start="20250520203700 +0200" stop="20250520213000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *10.0/10
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 3.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
     <category lang="es">Entretenimiento, Humor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4370180" />
@@ -1442,13 +1445,13 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250520213000 +0200" stop="20250520220000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -1464,19 +1467,22 @@
   </programme>
   <programme start="20250520220000 +0200" stop="20250520225500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Las Berrocal T1 E1</title>
-    <desc lang="es">Entretenimiento | 2025 | +16
-· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío.
+    <desc lang="es">Entretenimiento | 2025 | +16 | *10.0/10
+· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío. Votos: 1.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4369618" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250520225500 +0200" stop="20250521010500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Francis Ford Coppola's Megalópolis - Una fábula</title>
     <desc lang="es">Cine/Ciencia ficción | 2024 | +16 | *6.0/10
-· En la ciudad de Nueva Roma, el idealista Cesar Catilina, que desea crear un utópico futuro mejor, se enfrenta a el alcalde Franklyn Cicero, empeñado en mantener un statu quo que perpetúa la codicia y defiende los intereses particulares. Votos: 104.
+· En la ciudad de Nueva Roma, el idealista Cesar Catilina, que desea crear un utópico futuro mejor, se enfrenta a el alcalde Franklyn Cicero, empeñado en mantener un statu quo que perpetúa la codicia y defiende los intereses particulares. Votos: 105.
 · Título original: Megalopolis
 · País: EE.UU.
 · Dirección: Francis Ford Coppola.
@@ -1765,19 +1771,22 @@
   </programme>
   <programme start="20250521183600 +0200" stop="20250521193100 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Las Berrocal T1 E1</title>
-    <desc lang="es">Entretenimiento | 2025 | +16
-· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío.
+    <desc lang="es">Entretenimiento | 2025 | +16 | *10.0/10
+· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío. Votos: 1.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4369618" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250521193100 +0200" stop="20250521200000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -1805,7 +1814,7 @@
   <programme start="20250521205300 +0200" stop="20250521231500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Final: Tottenham - Manchester Utd. T24/25 · UEFA Europa League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La segunda competición de la UEFA es la Europa League. La final de este año es en Bilbao. Votos: 11.
+· Tottenham y Manchester United se juegan la temporada en Bilbao. Tras una Premier desastrosa (ocupan la 17ª y 16ª posición respectivamente), levantarán un título europeo y se meterán en la próxima Champions si vencen la final de la Europa League. Votos: 11.
 · País: España</desc>
     <category lang="es">Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4374065" />
@@ -1859,7 +1868,7 @@
   <programme start="20250522020000 +0200" stop="20250522050000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Finales de Conferencia: New York Knicks - Indiana Pacers (Partido 1) T24/25 · NBA</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *10.0/10
-· Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo. Votos: 1.
+· Una temporada más la mejor liga de baloncesto continúa en Movistar+. Múltiples aspirantes buscan hacerse con el anillo. Votos: 2.
 </desc>
     <category lang="es">Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4376057" />
@@ -2115,7 +2124,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250522221000 +0200" stop="20250523001000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250522221000 +0200" stop="20250523000200 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Blitz</title>
     <desc lang="es">Cine/Acción | 2024 | +12 | *6.0/10
 · En el Londres de la Segunda Guerra Mundial, George, un niño de nueve años, es evacuado al campo por su madre, Rita, para escapar de los bombardeos. Decidido a volver con su familia, George se embarca en un viaje épico de vuelta a casa mientras Rita. Votos: 49.
@@ -2132,10 +2141,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523001000 +0200" stop="20250523010100 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523000200 +0200" stop="20250523005300 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Cómo la IIGM se convirtió en global</title>
     <desc lang="es">Documentales/Historia | 2025 | +12 | *8.0/10
-· La Segunda Guerra Mundial ha sido considerada históricamente una guerra europea que acabó convirtiéndose en un conflicto global y cambió el mundo para siempre. Pero otros países como Japón, China, Estados Unidos y Oriente Medio no lo vieron así. Votos: 13.
+· La Segunda Guerra Mundial ha sido considerada históricamente una guerra europea que acabó convirtiéndose en un conflicto global y cambió el mundo para siempre. Pero otros países como Japón, China, Estados Unidos y Oriente Medio no lo vieron así. Votos: 15.
 · Título original: How the Second World War Became a Global War
 · País: R.U.
 · Dirección: Adrian Munsey.
@@ -2149,7 +2158,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523010100 +0200" stop="20250523015300 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523005300 +0200" stop="20250523014500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Día D: la batalla en color · El gran desafío</title>
     <desc lang="es">Documentales/Historia | 2023 | +12 | *6.0/10
 · En julio de 1943, Hitler sigue ocupando parte de la Unión Soviética. Pero desde su derrota en la batalla de Kursk, está a la defensiva. Contra él, los llamados Tres Grandes, reunidos en Teherán: Stalin, Franklin Roosevelt y Winston Churchill. Votos: 38.
@@ -2165,7 +2174,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523015300 +0200" stop="20250523024800 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523014500 +0200" stop="20250523024000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Día D: la batalla en color · El gran asalto</title>
     <desc lang="es">Documentales/Historia | 2023 | +12 | *6.0/10
 · 6 de junio de 1944. Los aliados desembarcan en las playas de Francia en una invasión sin precedentes. Su objetivo: liberar la Europa noroccidental del yugo de Hitler y de la ocupación nazi. ¿Cómo se desarrolló el desembarco de Normandía? Votos: 25.
@@ -2181,7 +2190,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523024800 +0200" stop="20250523034000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523024000 +0200" stop="20250523033200 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Mujeres sin nombre - México</title>
     <desc lang="es">Documentales/Actualidad | 2017 | +18 | *8.0/10
 · Desde enero de 2012 a junio de 2016 fueron asesinadas de forma violenta 9.581 mujeres en México, pero sólo 1.887 fueron tipificados como feminicidios. Y sólo el 39% de los mejicanos asocian feminicidio con el asesinato de mujeres. Votos: 78.
@@ -2197,7 +2206,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523034000 +0200" stop="20250523043500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523033200 +0200" stop="20250523042700 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Atrapados en la homofobia - Rusia</title>
     <desc lang="es">Documentales/Actualidad | 2017 | +18 | *8.0/10
 · Si existe un país que se ha convertido en un verdadero infierno para los homosexuales, ése es Rusia. 20 años después de que se legalizara la homosexualidad en el Congreso, este colectivo vive una auténtica persecución. Votos: 112.
@@ -2213,7 +2222,7 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250523043500 +0200" stop="20250523080000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250523042700 +0200" stop="20250523080000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">documentales</title>
     <desc lang="es">
 · Programa por determinar...
@@ -2348,7 +2357,7 @@
   <programme start="20250523170000 +0200" stop="20250523190500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Semifinales: Fenerbahçe - Panathinaikos T24/25 · Euroliga de baloncesto</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 87.
+· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 88.
 · País: España</desc>
     <category lang="es">Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4373651" />
@@ -2390,7 +2399,7 @@
   <programme start="20250523200000 +0200" stop="20250523220000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Semifinales: Olympiacos - Mónaco T24/25 · Euroliga de baloncesto</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 102.
+· Los mejores clubes del continente pelean por la Euroliga. Dieciocho equipos participan en la competición, entre los que se encuentran Real Madrid, Barcelona, Baskonia y Valencia Basket. Votos: 103.
 · País: España</desc>
     <category lang="es">Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4373653" />
@@ -2503,13 +2512,13 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524064700 +0200" stop="20250524081500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524064700 +0200" stop="20250524071000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Cine</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250524081500 +0200" stop="20250524091500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524071000 +0200" stop="20250524081000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Mary Beard: Pompeya, la vida antes de la muerte</title>
     <desc lang="es">Documentales/Historia | 2016 | TP | *8.0/10
 · Mary Beard se acerca a la vida en Pompeya antes del trágico final en el año 79 AC, cuando la erupción del Vesubio sepultó la ciudad, congelando en el tiempo toda una civilización y un modo de vida. Votos: 596.
@@ -2525,10 +2534,10 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524091500 +0200" stop="20250524110600 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524081000 +0200" stop="20250524100100 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Regreso al futuro</title>
     <desc lang="es">Cine/Aventuras | 1985 | TP | *8.0/10
-· Marty McFly, de 17 años, viaja por accidente hasta 1955 en una máquina del tiempo construida por su amigo Emmett 'Doc' Brown, un científico muy excéntrico. Votos: 2506.
+· Marty McFly, de 17 años, viaja por accidente hasta 1955 en una máquina del tiempo construida por su amigo Emmett 'Doc' Brown, un científico muy excéntrico. Votos: 2508.
 · Título original: Back To The Future
 · País: EE.UU.
 · Dirección: Robert Zemeckis.
@@ -2546,23 +2555,34 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524110600 +0200" stop="20250524120600 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">Altas capacidades (Out of the Box)</title>
-    <desc lang="es">Documentales/Sociedad | 2024 | TP | *8.0/10
-· Los estereotipos asociados a las altas capacidades proyectan una imagen de individuos afortunados con una inteligencia superior. Sin embargo, si su neurodivergencia no es respetada y atendida correctamente puede derivar en situaciones de riesgo. Votos: 429.
+  <programme start="20250524100100 +0200" stop="20250524113900 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">Aitana Bonmatí Conca</title>
+    <desc lang="es">Documentales/Biografía | 2024 | TP | *6.0/10
+· Ganadora de cinco ligas, cuatro supercopas, cinco champions, Aitana Bonmatí lo ha conseguido todo en el fútbol. En este documental nos descubre su cara más desconocida, personal y humana. Votos: 143.
+· Título original: Aitana Bonmatí
 · País: España
-· Dirección: Andrea Gómez.
-· Guion: Andrea Gómez.</desc>
-    <category lang="es">Documentales, Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4337653" />
+· Dirección: Xavi Torres, Jesús Muñoz, Santi Padró.</desc>
+    <category lang="es">Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4264937" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>8.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524120600 +0200" stop="20250524130000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524113900 +0200" stop="20250524124700 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">Ellas en la ciudad</title>
+    <desc lang="es">Documentales/Sociedad | 2025 | TP
+· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
+· País: España</desc>
+    <category lang="es">Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4373487" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20250524124700 +0200" stop="20250524134300 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El mundo según Glenn Close</title>
     <desc lang="es">Documentales/Biografía | 2024 | +12
 · Glenn Close nunca deja de sorprendernos con sus interpretaciones. La profundidad emocional que atribuye a cada uno de sus personajes y su extraordinaria capacidad de transformación la convierten en una actriz difícil de igualar.
@@ -2575,18 +2595,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20250524130000 +0200" stop="20250524140800 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">Ellas en la ciudad</title>
-    <desc lang="es">Documentales/Sociedad | 2025 | TP
-· Las vidas cotidianas de una generación de mujeres, primeras pobladoras de los barrios de la periferia de Sevilla. Ellas han sido el sostén de una ciudad que les da la espalda. ¿Cómo serían las ciudades si las hubieran diseñado ellas?
-· País: España</desc>
-    <category lang="es">Documentales, Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4373487" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20250524140800 +0200" stop="20250524150000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524134300 +0200" stop="20250524143500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Crímenes: Angelet</title>
     <desc lang="es">Documentales/True crime | 2024 | +16
 · Àngel Vila es el masovero de una masía donde vive y acoge a ciclistas y montañeros que rondan la zona. Con su vecino, improvisa un pequeño restaurante. Con el tiempo se propaga el rumor de que en la masía esconde una cantidad importante de dinero.
@@ -2597,10 +2606,10 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20250524150000 +0200" stop="20250524153000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524143500 +0200" stop="20250524150500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -2614,10 +2623,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524153000 +0200" stop="20250524170500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524150500 +0200" stop="20250524164000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El secreto del orfebre</title>
     <desc lang="es">Cine/Drama romántico | 2025 | +7 | *8.0/10
-· De viaja desde España a Nueva York, Juan Pablo, un orfebre anclado en un romance del pasado, vuelve a su pueblo natal en busca del gran amor de su juventud, aquel que cambió su vida para siempre. Votos: 97.
+· De viaja desde España a Nueva York, Juan Pablo, un orfebre anclado en un romance del pasado, vuelve a su pueblo natal en busca del gran amor de su juventud, aquel que cambió su vida para siempre. Votos: 129.
 · País: España
 · Dirección: Olga Osorio.
 · Reparto: Mario Casas, Michelle Jenner, Zoe Bonafonte, Enzo Oliver.
@@ -2634,86 +2643,77 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524170500 +0200" stop="20250524180000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250524164000 +0200" stop="20250524173000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
     <category lang="es">Entretenimiento, Humor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4370180" />
     <rating system="ES">
       <value>7</value>
     </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250524180000 +0200" stop="20250524182500 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DeportePlus+ Sábado</title>
-    <desc lang="es">Deportes/Programa deportes | TP | *6.0/10
-· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva. Votos: 55.
+  <programme start="20250524173000 +0200" stop="20250524175400 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">DeportePlus+ Sábado T24/25 · 24/05/2025 Primera Parte</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4265923" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme start="20250524182500 +0200" stop="20250524203000 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DIRECTO · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 45.
-· País: España</desc>
+  <programme start="20250524175400 +0200" stop="20250524202000 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">DIRECTO Final: Arsenal - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 2.
+· País: Portugal</desc>
     <category lang="es">Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247682" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4373569" />
     <rating system="ES">
       <value>TP</value>
     </rating>
     <star-rating system="ES">
-      <value>6.0/10</value>
+      <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250524203000 +0200" stop="20250524205300 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DeportePlus+ Sábado</title>
-    <desc lang="es">Deportes/Programa deportes | TP | *6.0/10
-· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva. Votos: 55.
+  <programme start="20250524202000 +0200" stop="20250524205300 +0200" channel="ES: Movistar Plus+">
+    <title lang="es">DeportePlus+ Sábado T24/25 · 24/05/2025 Segunda Parte</title>
+    <desc lang="es">Deportes/Programa deportes | TP
+· De la mano de Noemí de Miguel, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4265923" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250524205300 +0200" stop="20250524230000 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DIRECTO · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 139.
+    <title lang="es">DIRECTO Jornada 38: Getafe - Celta T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
 · País: España</desc>
     <category lang="es">Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247758" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4287057" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250524230000 +0200" stop="20250525000500 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DeportePlus+</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva. Votos: 60.
+    <title lang="es">DeportePlus+ T24/25 · 24/05/2025</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4265923" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250525000500 +0200" stop="20250525010000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Las Berrocal T1 E1</title>
@@ -2737,7 +2737,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250525012500 +0200" stop="20250525023500 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525012500 +0200" stop="20250525025500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Festival de Cannes 2025: Ceremonia de clausura</title>
     <desc lang="es">Cine/Eventos de cine | 2025 | TP
 · Festival de Cannes 2025: Ceremonia de clausura -.
@@ -2749,18 +2749,18 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250525023500 +0200" stop="20250525025000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525025500 +0200" stop="20250525031000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Festival de Cannes 2025. Balance</title>
     <desc lang="es">Cine/Eventos de cine | 2025 | TP
 · Festival de Cannes 2025. Balance -.
 </desc>
     <category lang="es">Cine, Eventos de cine</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M271111V4030750" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2286120V4030750" />
     <rating system="ES">
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20250525025000 +0200" stop="20250525050000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525031000 +0200" stop="20250525052000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">El árbol de la vida</title>
     <desc lang="es">Cine/Drama | 2010 | TP | *6.0/10
 · La historia de una familia del medio Oeste americano en los años 50 a través de la vida del hijo mayor, Jack, desde la inocencia de la infancia hasta la desilusión de los años de madurez, en su intento de reconciliación con su padre. Votos: 921.
@@ -2779,7 +2779,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250525050000 +0200" stop="20250525055100 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525052000 +0200" stop="20250525061100 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Renta de mara, tarifa de muerte - Honduras</title>
     <desc lang="es">Documentales/Actualidad | 2018 | +18 | *6.0/10
 · Cada año, decenas de conductores de transporte público y taxistas son asesinados en Honduras, convirtiendo este sector en uno de las más golpeados por la criminalidad, la violencia y el homicidio. Solo en el año 2016, 162 taxistas perdieron la vida. Votos: 86.
@@ -2795,7 +2795,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250525055100 +0200" stop="20250525064600 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525061100 +0200" stop="20250525070600 +0200" channel="ES: Movistar Plus+">
     <title lang="es">A las puertas del infierno · Amenazados - Amazona brasileña</title>
     <desc lang="es">Documentales/Actualidad | 2018 | +18 | *6.0/10
 · En Brasil existen héroes de la naturaleza que son asesinados y amenazados a diario intentando evitar que el Amazonas desaparezca a manos de madereros, mineros ilegales y latifundistas que saquean lo que no es suyo: la madera, el oro y la tierra. Votos: 56.
@@ -2811,7 +2811,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20250525064600 +0200" stop="20250525082000 +0200" channel="ES: Movistar Plus+">
+  <programme start="20250525070600 +0200" stop="20250525082000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">Documentales</title>
     <desc lang="es">
 · Programa por determinar...
@@ -2892,7 +2892,7 @@
   <programme start="20250525130000 +0200" stop="20250525151000 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DIRECTO Jornada 33: La Laguna Tenerife - Valencia Basket T24/25 · Liga Endesa</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *8.0/10
-· La Laguna Tenerife y Valencia Basket se enfrentan en este partido de la Jornada 33 de La Liga Endesa. Votos: 14.
+· La Laguna Tenerife y Valencia Basket se enfrentan en este partido de la Jornada 33 de La Liga Endesa. Votos: 15.
 · País: España</desc>
     <category lang="es">Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4303631" />
@@ -2950,18 +2950,15 @@
     </rating>
   </programme>
   <programme start="20250525182500 +0200" stop="20250525204000 +0200" channel="ES: Movistar Plus+">
-    <title lang="es">DIRECTO · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 45.
-· País: España</desc>
+    <title lang="es">DIRECTO Multigol Jornada 41 T24/25 · LALIGA HYPERMOTION</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso.
+</desc>
     <category lang="es">Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4247682" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/GCPLPC2203" />
     <rating system="ES">
       <value>TP</value>
     </rating>
-    <star-rating system="ES">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
   <programme start="20250525204000 +0200" stop="20250525212500 +0200" channel="ES: Movistar Plus+">
     <title lang="es">DeportePlus+ Domingo T24/25 · 25/05/2025 Segunda Parte</title>
@@ -3470,7 +3467,7 @@
   <programme start="20250520172500 +0200" stop="20250520191800 +0200" channel="ES: M+ Estrenos">
     <title lang="es">Al otro barrio</title>
     <desc lang="es">Cine/Comedia | 2024 | +12 | *6.0/10
-· Tras engañar a Hacienda (aprovechándose de una jugosa subvención por tener allí su sede), Andrés debe trasladar sus oficinas al barrio de Los Caños, situado en el extrarradio más marginal de la capital. Votos: 391.
+· Tras engañar a Hacienda (aprovechándose de una jugosa subvención por tener allí su sede), Andrés debe trasladar sus oficinas al barrio de Los Caños, situado en el extrarradio más marginal de la capital. Votos: 396.
 · País: España
 · Dirección: Mar Olid.
 · Reparto: Quim Gutiérrez, Sara Sálamo, Javier Herrera, María de Nati, Hamza Zaidi, Jorge Suquet.
@@ -3494,7 +3491,7 @@
   <programme start="20250520210000 +0200" stop="20250520231000 +0200" channel="ES: M+ Estrenos">
     <title lang="es">El ministro de propaganda</title>
     <desc lang="es">Cine/Biopic | 2024 | +16 | *6.0/10
-· Joseph Goebbels es el encargado de generar apoyo público para el Holocausto y para la guerra que está a punto de iniciar. Un maestro de la manipulación con gran poder de seducción que convenció al pueblo alemán de que solo Hitler podía hacerlo grande. Votos: 29.
+· Joseph Goebbels es el encargado de generar apoyo público para el Holocausto y para la guerra que está a punto de iniciar. Un maestro de la manipulación con gran poder de seducción que convenció al pueblo alemán de que solo Hitler podía hacerlo grande. Votos: 30.
 · Título original: Führer und Verführer
 · País: Alemania y Eslovaquia
 · Dirección: Joachim Lang.
@@ -4769,7 +4766,7 @@
   <programme start="20250520172500 +0200" stop="20250520191800 +0200" channel="ES: M+ Estrenos">
     <title lang="es">Al otro barrio</title>
     <desc lang="es">Cine/Comedia | 2024 | +12 | *6.0/10
-· Tras engañar a Hacienda (aprovechándose de una jugosa subvención por tener allí su sede), Andrés debe trasladar sus oficinas al barrio de Los Caños, situado en el extrarradio más marginal de la capital. Votos: 391.
+· Tras engañar a Hacienda (aprovechándose de una jugosa subvención por tener allí su sede), Andrés debe trasladar sus oficinas al barrio de Los Caños, situado en el extrarradio más marginal de la capital. Votos: 396.
 · País: España
 · Dirección: Mar Olid.
 · Reparto: Quim Gutiérrez, Sara Sálamo, Javier Herrera, María de Nati, Hamza Zaidi, Jorge Suquet.
@@ -4809,7 +4806,7 @@
   <programme start="20250520210000 +0200" stop="20250520231000 +0200" channel="ES: M+ Estrenos">
     <title lang="es">El ministro de propaganda</title>
     <desc lang="es">Cine/Biopic | 2024 | +16 | *6.0/10
-· Joseph Goebbels es el encargado de generar apoyo público para el Holocausto y para la guerra que está a punto de iniciar. Un maestro de la manipulación con gran poder de seducción que convenció al pueblo alemán de que solo Hitler podía hacerlo grande. Votos: 29.
+· Joseph Goebbels es el encargado de generar apoyo público para el Holocausto y para la guerra que está a punto de iniciar. Un maestro de la manipulación con gran poder de seducción que convenció al pueblo alemán de que solo Hitler podía hacerlo grande. Votos: 30.
 · Título original: Führer und Verführer
 · País: Alemania y Eslovaquia
 · Dirección: Joachim Lang.
@@ -7001,7 +6998,7 @@
   <programme start="20250521143400 +0200" stop="20250521161700 +0200" channel=" ES: M+ Comedia">
     <title lang="es">#Sexpact</title>
     <desc lang="es">Cine/Comedia | 2018 | +16 | *6.0/10
-· Lisa, Hunter y Mitchell son tres padres sobreprotectores que controlan los movimientos de sus hijas adolescentes. Las jóvenes se han hecho mejores amigas y cuando llega el esperado día de su graduación, dos de ellas acuerdan perder la virginidad. Votos: 513.
+· Lisa, Hunter y Mitchell son tres padres sobreprotectores que controlan los movimientos de sus hijas adolescentes. Las jóvenes se han hecho mejores amigas y cuando llega el esperado día de su graduación, dos de ellas acuerdan perder la virginidad. Votos: 514.
 · Título original: Blockers
 · País: EE.UU.
 · Dirección: Kay Cannon.
@@ -7053,7 +7050,7 @@
   <programme start="20250521212600 +0200" stop="20250521220000 +0200" channel=" ES: M+ Comedia">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -8469,7 +8466,7 @@
   <programme start="20250521143400 +0200" stop="20250521161700 +0200" channel=" ES: M+ Comedia">
     <title lang="es">#Sexpact</title>
     <desc lang="es">Cine/Comedia | 2018 | +16 | *6.0/10
-· Lisa, Hunter y Mitchell son tres padres sobreprotectores que controlan los movimientos de sus hijas adolescentes. Las jóvenes se han hecho mejores amigas y cuando llega el esperado día de su graduación, dos de ellas acuerdan perder la virginidad. Votos: 513.
+· Lisa, Hunter y Mitchell son tres padres sobreprotectores que controlan los movimientos de sus hijas adolescentes. Las jóvenes se han hecho mejores amigas y cuando llega el esperado día de su graduación, dos de ellas acuerdan perder la virginidad. Votos: 514.
 · Título original: Blockers
 · País: EE.UU.
 · Dirección: Kay Cannon.
@@ -8553,7 +8550,7 @@
   <programme start="20250521212600 +0200" stop="20250521220000 +0200" channel=" ES: M+ Comedia">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -16120,7 +16117,7 @@
   <programme start="20250520220000 +0200" stop="20250520235500 +0200" channel=" ES: M+ Acción">
     <title lang="es">El cuervo (The Crow)</title>
     <desc lang="es">Cine/Acción | 2024 | +18 | *6.0/10
-· Eric Draven y Shelly Webster son brutalmente asesinados cuando los demonios de su oscuro pasado les alcanzan. Ante la oportunidad de sacrificarse para salvar a su verdadero amor, Eric se propone vengarse despiadadamente de sus asesinos. Votos: 361.
+· Eric Draven y Shelly Webster son brutalmente asesinados cuando los demonios de su oscuro pasado les alcanzan. Ante la oportunidad de sacrificarse para salvar a su verdadero amor, Eric se propone vengarse despiadadamente de sus asesinos. Votos: 362.
 · Título original: The Crow
 · País: R.U.
 · Dirección: Rupert Sanders.
@@ -17404,7 +17401,7 @@
   <programme start="20250520220000 +0200" stop="20250520235500 +0200" channel=" ES: M+ Acción">
     <title lang="es">El cuervo (The Crow)</title>
     <desc lang="es">Cine/Acción | 2024 | +18 | *6.0/10
-· Eric Draven y Shelly Webster son brutalmente asesinados cuando los demonios de su oscuro pasado les alcanzan. Ante la oportunidad de sacrificarse para salvar a su verdadero amor, Eric se propone vengarse despiadadamente de sus asesinos. Votos: 361.
+· Eric Draven y Shelly Webster son brutalmente asesinados cuando los demonios de su oscuro pasado les alcanzan. Ante la oportunidad de sacrificarse para salvar a su verdadero amor, Eric se propone vengarse despiadadamente de sus asesinos. Votos: 362.
 · Título original: The Crow
 · País: R.U.
 · Dirección: Rupert Sanders.
@@ -23112,7 +23109,7 @@
   <programme start="20250520081400 +0200" stop="20250520084500 +0200" channel="ES: M+ Originales">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250520084500 +0200" stop="20250520091200 +0200" channel="ES: M+ Originales">
@@ -23246,7 +23243,7 @@
   <programme start="20250520212700 +0200" stop="20250520220200 +0200" channel="ES: M+ Originales">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250520220200 +0200" stop="20250520223200 +0200" channel="ES: M+ Originales">
@@ -23264,14 +23261,14 @@
   </programme>
   <programme start="20250520224000 +0200" stop="20250520233000 +0200" channel="ES: M+ Originales">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *10.0/10
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 3.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20250520233000 +0200" stop="20250521000000 +0200" channel="ES: M+ Originales">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -23279,8 +23276,8 @@
   </programme>
   <programme start="20250521000000 +0200" stop="20250521005100 +0200" channel="ES: M+ Originales">
     <title lang="es">Las Berrocal T1 E1</title>
-    <desc lang="es">Entretenimiento | 2025 | +16
-· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío.
+    <desc lang="es">Entretenimiento | 2025 | +16 | *10.0/10
+· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20250521005100 +0200" stop="20250521014400 +0200" channel="ES: M+ Originales">
@@ -23458,7 +23455,7 @@
   <programme start="20250521151800 +0200" stop="20250521154800 +0200" channel="ES: M+ Originales">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -23466,14 +23463,14 @@
   </programme>
   <programme start="20250521154800 +0200" stop="20250521163800 +0200" channel="ES: M+ Originales">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *10.0/10
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 3.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20250521163800 +0200" stop="20250521170800 +0200" channel="ES: M+ Originales">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250521170800 +0200" stop="20250521180500 +0200" channel="ES: M+ Originales">
@@ -24814,7 +24811,7 @@
   <programme start="20250520081400 +0200" stop="20250520084500 +0200" channel="ES: M+ Originales">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4375686" />
@@ -25070,7 +25067,7 @@
   <programme start="20250520212700 +0200" stop="20250520220200 +0200" channel="ES: M+ Originales">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4375686" />
@@ -25106,8 +25103,8 @@
   </programme>
   <programme start="20250520224000 +0200" stop="20250520233000 +0200" channel="ES: M+ Originales">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *10.0/10
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 3.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
     <category lang="es">Entretenimiento, Humor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4370180" />
@@ -25115,13 +25112,13 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250520233000 +0200" stop="20250521000000 +0200" channel="ES: M+ Originales">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -25137,14 +25134,17 @@
   </programme>
   <programme start="20250521000000 +0200" stop="20250521005100 +0200" channel="ES: M+ Originales">
     <title lang="es">Las Berrocal T1 E1</title>
-    <desc lang="es">Entretenimiento | 2025 | +16
-· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío.
+    <desc lang="es">Entretenimiento | 2025 | +16 | *10.0/10
+· Vicky organiza la inauguración de su nueva tienda de moda nupcial en Madrid. Alba y Rocío eligen el vestido que llevarán en el gran evento. Mientras, Victoria se prepara para recibirlas a todas para pasar el fin de semana juntas en su casa del Rocío. Votos: 1.
 · País: España</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4369618" />
     <rating system="ES">
       <value>16</value>
     </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
   </programme>
   <programme start="20250521005100 +0200" stop="20250521014400 +0200" channel="ES: M+ Originales">
     <title lang="es">La canción T1 E2 · La tanqueta</title>
@@ -25470,7 +25470,7 @@
   <programme start="20250521151800 +0200" stop="20250521154800 +0200" channel="ES: M+ Originales">
     <title lang="es">Ilustres ignorantes T18 · El matrimonio</title>
     <desc lang="es">Entretenimiento/Humor | 2025 | +16 | *6.0/10
-· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 80.
+· Los actores Andrea Duro y Enrique Arce son los invitados de este capítulo de Ilustres en el que hablan de “El matrimonio” ¿cuál es el secreto de un matrimonio feliz? ¿cómo sería su boda ideal? ¿A dónde irían para salvar su matrimonio? Votos: 82.
 · País: España
 · Presenta: Javier Coronas.
 · Dirección: Javier Coronas.
@@ -25486,8 +25486,8 @@
   </programme>
   <programme start="20250521154800 +0200" stop="20250521163800 +0200" channel="ES: M+ Originales">
     <title lang="es">El consultorio de Berto T2 · Eva Soriano y los ojizarcos con alipori</title>
-    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *10.0/10
-· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 3.
+    <desc lang="es">Entretenimiento/Humor | 2025 | +7 | *8.0/10
+· Hoy en 'El Consultorio de Berto' la invitada es la alta, desgarbada y "medio guapa" Eva Soriano. Eva se marca, junto a Berto Romero, una cumbia dedicada a Batman, el Caballero Oscuro, y confiesa que practica el "petting" inmobiliario. Votos: 4.
 · País: España</desc>
     <category lang="es">Entretenimiento, Humor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4370180" />
@@ -25495,13 +25495,13 @@
       <value>7</value>
     </rating>
     <star-rating system="ES">
-      <value>10.0/10</value>
+      <value>8.0/10</value>
     </star-rating>
   </programme>
   <programme start="20250521163800 +0200" stop="20250521170800 +0200" channel="ES: M+ Originales">
     <title lang="es">Pepe Reina tiene algo que contar</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
-· El portero Pepe Reina, uno de los jugadores que ya forman parte de la historia de nuestro fútbol, se sienta frente a Carlos Martínez y Susana Guasch para repasar su ya larga carrera. Votos: 6.
+· El portero Pepe Reina, uno de los jugadores que ya forman parte de nuestra historia, se sienta frente a Carlos Martínez y Mónica Marchante porque tiene una cosa que decir: se retira del fútbol. La hora del adiós ha llegado. Votos: 6.
 · País: España</desc>
     <category lang="es">Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4375686" />
@@ -27977,7 +27977,8 @@
     <title lang="es">Mañaneros 360 T1 E22</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-</desc>
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20250520150000 +0200" stop="20250520153500 +0200" channel="ES: La 1">
     <title lang="es">Telediario 1</title>
@@ -28011,7 +28012,8 @@
     <title lang="es">La familia de la tele T1 E24</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +12
 · Magacín de tardes presentado por Aitor Albizua, María Patiño e Inés Hernand.
-</desc>
+· País: España
+· Presenta: Aitor Albizua, María Patiño, Inés Hernand.</desc>
   </programme>
   <programme start="20250520171000 +0200" stop="20250520180000 +0200" channel="ES: La 1">
     <title lang="es">Valle Salvaje T2 E36</title>
@@ -28034,7 +28036,8 @@
     <title lang="es">La familia de la tele T1 · (II)</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +7
 · Magacín de tardes presentado por Aitor Albizua, María Patiño e Inés Hernand.
-</desc>
+· País: España
+· Presenta: Aitor Albizua, María Patiño, Inés Hernand.</desc>
   </programme>
   <programme start="20250520203000 +0200" stop="20250520210000 +0200" channel="ES: La 1">
     <title lang="es">Aquí la Tierra</title>
@@ -28062,13 +28065,17 @@
     <title lang="es">La revuelta T1 E131</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-</desc>
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
   </programme>
   <programme start="20250520230000 +0200" stop="20250521002000 +0200" channel="ES: La 1">
     <title lang="es">That's My Jam: que el ritmo no pare T1 · Coti-Elena Furiase/Maribel Verdú-Rozalén</title>
     <desc lang="es">Entretenimiento/Concurso | 2025 | TP
 · Coti, Elena Furiase, Maribel Verdú y Rozalén luchan por el radiocasete dorado.
-</desc>
+· País: España
+· Presenta: Arturo Valls.
+· Productora: Radio Televisión Española (RTVE), LaCoproductora.</desc>
   </programme>
   <programme start="20250521002000 +0200" stop="20250521014000 +0200" channel="ES: La 1">
     <title lang="es">That's My Jam: que el ritmo no pare T1 · Chanel-Carolina Iglesias/Eduardo Navarrete-Danna</title>
@@ -28918,9 +28925,10 @@
     <title lang="es">Mañaneros 360 T1 E22</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +16
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
-</desc>
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4036380" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -28977,9 +28985,10 @@
     <title lang="es">La familia de la tele T1 E24</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +12
 · Magacín de tardes presentado por Aitor Albizua, María Patiño e Inés Hernand.
-</desc>
+· País: España
+· Presenta: Aitor Albizua, María Patiño, Inés Hernand.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4036382" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -29015,9 +29024,10 @@
     <title lang="es">La familia de la tele T1 · (II)</title>
     <desc lang="es">Entretenimiento/Magacín | 2025 | +7
 · Magacín de tardes presentado por Aitor Albizua, María Patiño e Inés Hernand.
-</desc>
+· País: España
+· Presenta: Aitor Albizua, María Patiño, Inés Hernand.</desc>
     <category lang="es">Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4036386" />
     <rating system="ES">
       <value>7</value>
     </rating>
@@ -29066,9 +29076,11 @@
     <title lang="es">La revuelta T1 E131</title>
     <desc lang="es">Entretenimiento/Entrevista | 2025 | +12
 · Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.
-</desc>
+· País: España
+· Presenta: David Broncano.
+· Productora: Radio Televisión Española (RTVE), El Terrat.</desc>
     <category lang="es">Entretenimiento, Entrevista</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4036384" />
     <rating system="ES">
       <value>12</value>
     </rating>
@@ -29077,9 +29089,11 @@
     <title lang="es">That's My Jam: que el ritmo no pare T1 · Coti-Elena Furiase/Maribel Verdú-Rozalén</title>
     <desc lang="es">Entretenimiento/Concurso | 2025 | TP
 · Coti, Elena Furiase, Maribel Verdú y Rozalén luchan por el radiocasete dorado.
-</desc>
+· País: España
+· Presenta: Arturo Valls.
+· Productora: Radio Televisión Española (RTVE), LaCoproductora.</desc>
     <category lang="es">Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/-fuera-catalogo" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVEP4036378" />
     <rating system="ES">
       <value>TP</value>
     </rating>
