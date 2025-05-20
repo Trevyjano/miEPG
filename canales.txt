@@ -1,4 +1,4 @@
-Movistar Plus+ HD,ES: Movistar Plus+ HD
-Movistar Plus+,ES: Movistar Plus+ HD
-M+ Estrenos HD,ES: M+ Estrenos HD
-M+ Originales HD,ES: M+ Originales HD
+Movistar Plus+ HD,ES: Movistar Plus+
+Movistar Plus+,ES: Movistar Plus+
+M+ Estrenos HD,ES: M+ Estrenos
+M+ Originales HD,ES: M+ Originales
