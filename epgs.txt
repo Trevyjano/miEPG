@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor3.xml.gz
+https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz
